@@ -19,7 +19,7 @@ h1 {
 
 .screen {
   cursor: pointer;
-  width: 20%;
+  width: 60%;
   background-color: #000 !important;
   border-top-left-radius: 20px;
   border-top-right-radius: 20px;
@@ -28,7 +28,7 @@ h1 {
 .controls {
   background: #333;
   color:ghostwhite;
-  width: 20%;
+  width: 60%;
   border-bottom-left-radius: 20px;
   border-bottom-right-radius: 20px;
   display: flex;
@@ -67,6 +67,6 @@ h1 {
 @media (max-width: 800px) {
   .screen,
   .controls {
-    width: 40%;
+    width: 90%;
   }
 }
